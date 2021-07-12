@@ -1,6 +1,6 @@
 ## Attack Site
 
-## D-dos
+## installation
 
 $ pkg install python
 
