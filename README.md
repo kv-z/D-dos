@@ -1,6 +1,6 @@
 ## Attack Site
 
-## installation
+## Usage
 
 $ pkg install python
 
